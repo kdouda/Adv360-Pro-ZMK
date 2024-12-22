@@ -10,7 +10,6 @@ features:
   - backlight
 outputs:
   - usb
-  - ble
 siblings:
   - adv360pro_left
   - adv360pro_right
